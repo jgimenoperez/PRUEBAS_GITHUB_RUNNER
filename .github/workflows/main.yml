@@ -31,5 +31,6 @@ jobs:
         echo Add other actions to build,
         echo test, and deploy your project.
         date
+        cd C:\PRUEBAS_NODEJS\GITHUB_RUNNER\PRUEBAS_GITHUB_RUNNER\
         node C:\PRUEBAS_NODEJS\GITHUB_RUNNER\PRUEBAS_GITHUB_RUNNER\index.js
         copy C:\PRUEBAS_NODEJS\GITHUB_RUNNER\PRUEBAS_GITHUB_RUNNER\holamundo.txt C:\PRUEBAS_NODEJS\GITHUB_RUNNER\PRUEBAS_GITHUB_RUNNER\holamundo2.txt
