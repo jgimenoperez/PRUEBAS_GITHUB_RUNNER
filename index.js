@@ -20,5 +20,5 @@ fs.writeFile("./holamundo.txt",texto, function (err) {
   // por lo tanto lo que se quiera hacer debe hacerse dentro de la funcion que maneja el evento
   // si uno declara una variable arriba de la funcion, la manipula dentro y la quiere usar
   // despues afuera, se corre el riezgo de que nunca se realice la manipulacion.
-  console.log("The file was saved1!");
+  console.log("The file was saved!");
 });
