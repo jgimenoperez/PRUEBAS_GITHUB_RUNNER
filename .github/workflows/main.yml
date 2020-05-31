@@ -3,7 +3,7 @@ on: [push]
 jobs:
   hello_world_job:
     runs-on: disabled #ubuntu-latest
-    name: A job to say hello
+    name: PRUEBA AUTOHOSPEDADO
     steps:
     - name: Hello world action step
       id: hello
